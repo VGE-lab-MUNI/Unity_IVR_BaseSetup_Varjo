@@ -1,4 +1,4 @@
-\# Unity IVR Base Setup (Varjo)
+# Unity IVR Base Setup (Varjo)
 
 
 
@@ -10,7 +10,7 @@ Reusable, continuously updated Unity IVR project foundation for Varjo devices (p
 
 
 
-\## Unity Version
+## Unity Version
 
 
 
@@ -22,7 +22,7 @@ Unity 6.x (currently 6000.3.11f1 LTS)
 
 
 
-\## Purpose
+## Purpose
 
 
 
@@ -36,7 +36,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 
 
-\## Packages Included
+## Packages Included
 
 
 
@@ -54,7 +54,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -62,7 +62,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 2\) Check the most recent/relevant commit.
 
-3) Ready to use.
+3\) Ready to use.
 
 
 
@@ -70,7 +70,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 
 
-\## Contact 
+## Contact 
 
 
 
